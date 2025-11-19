@@ -3,6 +3,11 @@
 A [Yazi](https://github.com/sxyazi/yazi) plugin to preview Blender's .blend and
 .blend1 files.
 
+> [!TIP]
+> Blender's thumbnails are limited to 128x128 pixels.
+> [zoom.yazi](https://github.com/yazi-rs/plugins/tree/main/zoom.yazi) can help
+increase the size, but won't change the resolution.
+
 ## Requirements
 
 `blender-thumbnailer` needs to be available on the path
